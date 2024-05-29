@@ -42,13 +42,13 @@ https://github.com/kingadarsh/Zerodha-Landing-Page/assets/141414310/e53a75d8-13e
 1. Clone the repository:
 
     ```sh
-    git clone https://github.com/your-username/zerodha-clone.git
+    https://github.com/kingadarsh/Zerodha-Landing-Page.git
     ```
 
 2. Navigate to the project directory:
 
     ```sh
-    cd zerodha-clone
+    cd Zerodha-Landing-Page
     ```
 
 ## Usage
