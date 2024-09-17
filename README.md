@@ -18,6 +18,8 @@ This project includes a simple navigation bar, a landing image, and some promoti
 
 ## Demo
 
+You can view the hosted version of this project here: https://zerodha-landing-page-qibc.vercel.app/
+
 ![Zerodha Clone Screenshot](./landing.png)
 <img width="1470" alt="Screenshot 2024-05-29 at 4 07 19 PM" src="https://github.com/kingadarsh/Zerodha-Landing-Page/assets/141414310/9f12ad6c-b029-4bbe-b242-3d2a6a3e3eea">
 
